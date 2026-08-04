@@ -143,15 +143,15 @@ The application allows users to upload their own datasets, fit a linear regressi
 
 install.packages(c(
 
-#x20; "shiny",
+"shiny",
 
-#x20; "ggplot2",
+"ggplot2",
 
-&#x20; "lmtest",
+"lmtest",
 
-&#x20; "car",
+"car",
 
-&#x20; "readxl"
+"readxl"
 
 ))
 

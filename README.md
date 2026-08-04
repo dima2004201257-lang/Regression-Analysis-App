@@ -59,7 +59,7 @@ The application allows users to upload their own datasets, fit a linear regressi
 ## Screenshots
 
 
-#Control panel and display of uploaded test data
+##Control panel and display of uploaded test data
 
 ![](images/img1.png)
 
@@ -143,9 +143,9 @@ The application allows users to upload their own datasets, fit a linear regressi
 
 install.packages(c(
 
-&#x20; "shiny",
+#x20; "shiny",
 
-&#x20; "ggplot2",
+#x20; "ggplot2",
 
 &#x20; "lmtest",
 

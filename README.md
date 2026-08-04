@@ -59,31 +59,31 @@ The application allows users to upload their own datasets, fit a linear regressi
 ## Screenshots
 
 
-##Control panel and display of uploaded test data
+### Control panel and display of uploaded test data
 
 ![](images/img1.png)
 
-#Summary of basic information about the model
+### Summary of basic information about the model
 
 ![](images/img2.png)
 
-#Linear regression plot and confidence band
+### Linear regression plot and confidence band
 
 ![](images/img3.png)
 
-#Two plots for the residuals
+### Two plots for the residuals
 
 ![](images/img4.png)
 
-#Diagnostic tests
+### Diagnostic tests
 
 ![](images/img5.png)
 
-#Analysis of variance table
+### Analysis of variance table
 
 ![](images/img6.png)
 
-#Confidence intervals for the coefficients. Significance of the model and its parameters
+### Confidence intervals for the coefficients. Significance of the model and its parameters
 
 ![](images/img7.png)
 

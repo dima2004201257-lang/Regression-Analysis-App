@@ -2,11 +2,11 @@
 
 
 
-\## Overview
+## Overview
 
 
 
-An interactive \*\*R Shiny\*\* application that automates the entire workflow of simple linear regression analysis.
+An interactive **R Shiny** application that automates the entire workflow of simple linear regression analysis.
 
 
 
